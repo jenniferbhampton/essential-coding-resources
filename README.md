@@ -1,2 +1,2 @@
-# essential-coding-resources
-Good things for your code.
+## ESSENTIAL CODING RESOURCES
+[Check the list](https://github.com/jenniferbhampton/essential-coding-resources/wiki)
